@@ -1,0 +1,75 @@
+What it is: GitHub is a cloud hosting platform for software development projects. It allows developers to save, track changes, collaborate on code, and share projects.
+  Key Functions and Features:
+   Version control with Git
+    Code collaboration features such as pull requests and branching
+   * Project management tools
+   * Track issues and report bugs
+   * Community features such as wikis and discussions
+Repository on GitHub
+ * What it is: Repositories are the basic storage units on GitHub. They contain all project files, their revision history, and associated metadata.
+ * Create repository:
+   * Sign up for a free GitHub account.
+   * Click "New Repository" and enter a name and description.
+   * Initialize the local Git repository on your machine (if you use Git version control).
+   * Transfer your local repository to GitHub.
+ * Basic elements:
+   * README File: Provides an overview of the project, installation instructions, and how to use it.
+   * Source code files
+   * License file (eg MIT, Apache)
+   * Additional files (eg documentation, assets)
+Version control with Git
+ * Concept: Git tracks changes to computer files and allows you to revert to specific versions. It helps maintain project history and facilitates collaboration.
+ * GitHub improvements:
+   * Visual interface for Git commands (branching, merging, commit history)
+   * Collaboration features to manage code changes from multiple developers
+Branching and merging in GitHub
+ * Branches: Allows developers to work on isolated code bases without affecting the main line of the project.
+ * Branch creation:
+   * In your GitHub repository, go to the "Code" tab.
+   * Click the "Branch" button and give it a descriptive name.
+ * Making changes and merging:
+   * Edit your branch locally.
+   * Make changes using descriptive messages.
+   * Create a pull request to submit your branch changes for review and merge into the master branch.
+Pull Requests and Code Reviews
+ * Pull Requests (PR): Formal ways to propose code changes from a branch to the master branch.
+ * Facilitating collaboration:
+   * Code reviewers can suggest improvements, discuss changes and approve/reject PRs.
+ * Create a download request:
+   * In your GitHub repository, go to the "Pull requests" tab.
+   * Click "New Pull Request" and select the branch containing your changes.
+   * Provide a clear description of the changes you made.
+ * Check the download request:
+   * Reviewers can leave comments, suggest edits and approve/reject PRs.
+GitHub Actions
+ * What it is: Automated workflows that run code on specific events in the repository (eg push, pull request).
+ * Use cases:
+   * Continuous Integration (CI): Automated creation, testing and integration of code changes.
+   * Continuous delivery/deployment (CD): Automated deployment of code into the production environment.
+Introduction to Visual Studio
+ * What it is: An integrated development environment (IDE) from Microsoft for building web, desktop, mobile, and cloud applications.
+ * Key properties:
+   * Tools for editing, debugging and refactoring code
+   * Support for various programming languages (C#, C++, Python, JavaScript, etc.)
+   * Built-in integration with Git and other version control systems
+   * Project management and code collaboration features
+Integrating GitHub with Visual Studio
+ * Steps:
+   * Install the GitHub extension for Visual Studio.
+   * Login to your GitHub account as part of the extension.
+   * Clone or open your existing GitHub repository in Visual Studio.
+ * Advantages:
+   * Simplified workflow for Git operations (commit, commit, download)
+   * Improved code collaboration features (display pull requests, branch management)
+Debugging in Visual Studio
+ * Debugging tools:
+   * Breakpoints to suspend code execution
+   * Variable check for examining variable values
+   * Call stack to trace function calls
+   * Step-by-step execution to step through the code line by line
+ * Using debuggers to fix problems:
+   * Set breakpoints in code where you suspect problems.
+   * Start the debugger and step through the code execution.
+   * Inspect variables to identify unexpected values or errors.
+   * Fix code based on debug statistics.
+Collaborative development using GitHub and Visual Studio
